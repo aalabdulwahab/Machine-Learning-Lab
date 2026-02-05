@@ -1,3 +1,5 @@
+Lab1:
+
 GitHub Setup: Created a GitHub account and explored platform features and workflow.
 
 Repository Initialization: Established a central repository dedicated to Machine Learning lab materials.
