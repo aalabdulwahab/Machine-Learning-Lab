@@ -1,5 +1,5 @@
-I created a gihub account and explored its use.
+GitHub Setup: Created a GitHub account and explored platform features and workflow.
 
-Also, I created a ML repositry for the lab material.
+Repository Initialization: Established a central repository dedicated to Machine Learning lab materials.
 
-Lastly, I created repositry for Lab 1 and 2 inside the main repositry
+Project Structure: Organized Lab 1 and Lab 2 materials into specific directories within the main repository.
