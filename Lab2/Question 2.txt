@@ -1,0 +1,12 @@
+1- Regression Problem
+2- Target var: Car price (Price_USD)
+3- what our model expected to do: Expected to predict and learn the car prices based on some information about the car itself
+
+Problem description:
+
+The goal of this project is to develop a machine learning model that predicts car prices in USD based on various inputs (features) of the vehicle. 
+
+The dataset includes information such as the car’s brand, manufacturing year, fuel type, transmission, and other technical specifications. 
+
+By learning the relationship between these features and the car’s price, the model can provide accurate price predictions and help analyze the factors that influence a car’s market value. 
+ 
