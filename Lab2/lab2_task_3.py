@@ -1,5 +1,3 @@
-
-
 import pandas as pd
 dataFrame = pd.read_csv('/content/global_cars_dataset_synthetic.csv')
 
