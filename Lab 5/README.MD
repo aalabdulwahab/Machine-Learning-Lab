@@ -1,3 +1,5 @@
+Lab 5: Feature Engineering & Model Evaluation
+
 Objective
 
 Apply feature engineering techniques to improve machine learning model performance.
